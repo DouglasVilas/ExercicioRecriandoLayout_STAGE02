@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+  
+    font-family: "Open Sans", sans-serif;
+  
+    background-color: #2F2E41;
+  
+    min-height: 100vh;
+  
+  }
+
+
+.page {
+  width: 100%;
+  max-width: 1280px;
+  margin:   auto  350px;
+  padding-top: 5px;
+ 
+}
+#Rocketsect {
+  position: absolute;
+  top: 20px;
+  left: 350px;
+  
+}
+
+
+#logo{
+  margin-right: 700px;
+  margin-top: -1000px;
+}
+
+
+
+nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+nav ul {
+  margin-right: -800px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  list-style-type: none;
+  padding:35px
+}
+
+
+a {
+  color: white;
+  text-decoration: none;
+
+} 
+
+p{
+  color: white;
+
+}
+p span{
+  color: #00bfa6;
+  font-weight: bold;
+  
+}
+
+
+ ul li a:hover {
+ 
+  color: #00bfa6;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 56px;
+  color:white;
+  font-weight: normal;
+  
+}
+
+h1 span {
+  color: #00bfa6;
+  font-weight: bold;
+}
+section{
+margin-top:120px;
+ max-width: 720px;
+ margin-left: 500px;
+ text-align: center;
+
+
+}
+section p {
+  font-size: 14px;
+  line-height: 28px;
+  color:white;
+  opacity: 0.5;
+  
+}
+
+footer {
+  font-size: 14px;
+  margin-top: 180px;
+  position: relative;
+ text-align: center;
+ 
+}
+
+footer a {
+  font-weight: bold;
+  color: #00bfa6;
+
+}
+
+hr{
+  border-color:#00bfa6;
+ width:35%
+
+
+}
+#block {
+  position: absolute;
+  float:right;
+   margin-left:-700px ;
+    
+}
